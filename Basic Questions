@@ -1,0 +1,66 @@
+Q1. How can you output "Physics" and "Wallah" in two different lines in C++?
+Ans: 
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout<<"Physics"<<endl;
+    cout<<"Wallah"<<endl;
+}
+
+Q2. Write a Program to print 10 using 2 positive numbers less than 6 in C++ as output.
+Ans:
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int a,b;
+    cout<<"Enter a no less than 6:";
+    cin>>a;
+    cout<<"Enter another no less than 6:";
+    cin>>b;
+    cout<<a+b; 
+}
+
+Q3. How much space does the following data types take?
+Int 
+Bool
+float
+Ans:
+Int -> 4 bytes.
+Bool -> 1 byte.
+float -> 4 bytes.
+
+Q4. What is the output of this program?
+
+int main() {
+int a = 4;
+int b = 5;
+a++, b--;
+cout << ++a << " " << b--;
+}
+
+Ans:- 6 4
+
+Q5. Write a program to find the circumference of a circle with radius 10 in C++.
+Ans:
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int radius;
+    cout<<"Enter the radius of the circle:";
+    cin>>radius;
+    cout<<"The circumference of the circle is:"<<2*3.1415*radius;
+    
+}
+
+Q6. 
+
+
