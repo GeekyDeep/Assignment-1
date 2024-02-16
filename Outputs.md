@@ -5,3 +5,5 @@ Q1. How can you output “Physics” and “Wallah” in two different lines in 
 
 Q2. Print 10 using 2 positive numbers less than 6 in C++ as output.
 
+![Ans 2](https://github.com/GeekyDeep/Assignment-1/assets/160214731/8352b3de-1c15-406e-9d54-e740d172d774)
+
