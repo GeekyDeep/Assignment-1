@@ -61,6 +61,14 @@ int main()
     
 }
 
-Q6. 
+Q6. How many of these can be a variable name ?
 
+01Pwskills
+_FLOAT
+int
+FLOAT
+You will succeed
 
+Ans:
+
+Only _FLOAT and FLOAT are correct and can be a variable name because variable names can have _ so that's why _FLOAT is correct and FLOAT is also correct as C++ is case sensitive so it's not the same as float data type.
