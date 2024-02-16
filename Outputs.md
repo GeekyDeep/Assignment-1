@@ -9,3 +9,4 @@ Q2. Print 10 using 2 positive numbers less than 6 in C++ as output.
 
 Q5. Write a program to find the circumference of a circle with radius 10 in C++.
 
+![Ans 5](https://github.com/GeekyDeep/Assignment-1/assets/160214731/bead34ad-6ec4-42f3-a016-191d2f526d53)
